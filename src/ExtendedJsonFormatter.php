@@ -1,5 +1,5 @@
 <?php
-namespace \Minimax\Monolog;
+namespace Minimax\Monolog;
 use \Monolog\Formatter\JsonFormatter;
 
 /**
