@@ -1,0 +1,16 @@
+{
+    "name": "mwarchalowski/monolog-extended-json-formatter",
+    "description": "Extended Json formatter to include $_SERVER and $_REQUEST",
+    "authors": [
+        {
+            "name": "Maciek W",
+            "email": "mwarchalowski@gmail.com"
+        }
+    ],
+    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Minimax\\Monolog\\": "src"
+        }
+    }
+}
