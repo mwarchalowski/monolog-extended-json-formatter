@@ -7,7 +7,7 @@
             "email": "mwarchalowski@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
     "autoload": {
         "psr-4": {
             "Minimax\\Monolog\\": "src"
